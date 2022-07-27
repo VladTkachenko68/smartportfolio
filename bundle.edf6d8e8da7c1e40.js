@@ -35539,7 +35539,7 @@
           {
             id: 0,
             name: "Neurality",
-            description: "8,888 unique mekas who need drivers.",
+            description: "It is NFT market place.",
             image: "images/projects/pokedex.png",
             tags: ["nextjs", "SmartContract", "Soldity", "Web3"],
             liveview: "https://nft.scholarshipcoin.org/",
@@ -35559,7 +35559,7 @@
             id: 2,
             name: "Domain Market Place",
             description:
-              "Play as Jelly and fight against three other Jellys in a multiplayer free-for-all game",
+              "It is social domain market place. In this project, I have used React, Redux, Styled Component, SCSS, Django and PostgreSQL",
             image: "images/projects/jelly-battle.jpg",
             tags: ["react", "django", "Python", "TailwindCSS", "AWS"],
             liveview: "https://dev.stud.com/",
@@ -35579,7 +35579,7 @@
           {
             id: 4,
             name: "livesteaming",
-            description: "JavaScript based jump-and-run game",
+            description: "React Native based LiveStreaming Mobile APP",
             image: "images/projects/livesteaming.png",
             tags: ["ReactNative", "ARintegration", "pushnotifications"],
             liveview: "https://itunes.apple.com/us/app/bigo-live-live-broadcasting/id1077137248?mt=8",
