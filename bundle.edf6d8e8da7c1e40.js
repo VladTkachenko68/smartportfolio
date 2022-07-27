@@ -35543,7 +35543,7 @@
             image: "images/projects/pokedex.png",
             tags: ["nextjs", "SmartContract", "Soldity", "Web3"],
             liveview: "https://nft.scholarshipcoin.org/",
-            github: "https://github.com/talented0312/NFT_Minting_Site",
+            github: "https://github.com/talented0312/NFT_Minting_Site ",
             alt: "Neurality design detailed design portfolio project",
           },
           {
